@@ -8,3 +8,5 @@ This is a gift from JSConf to you, with love!
 From the 140byt.es team with love, we have logo.js in under a tweet: https://gist.github.com/1265021
 
 Enjoy.
+
+![JS Logo (PNG)](https://github.com/voodootikigod/logo.js/raw/master/js.png)
