@@ -5,6 +5,6 @@ Officially announced at JSConf EU 2011, but used for almost a year and half prio
 
 This is a gift from JSConf to you, with love!
 
-From the 140byt.es team with love, we have logo.js in under a tweet: https://gist.github.com/1265021
+Also be sure to check the registry for awesome use cases of the logo and what they mean!
 
 Enjoy.
