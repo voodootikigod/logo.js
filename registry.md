@@ -10,27 +10,25 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 <img src='https://raw.github.com/voodootikigod/logo.js/master/js.png' width='200'/>
 
 ---
-<<<<<<< HEAD
-### JSConf.EU (#E2007A and #FFFFFF)
+### JSConf.EU (#E2007A and #FFFFFF) - [http://jsconf.eu](http://jsconf.eu)
 <img src='https://raw.github.com/jsconf/logo.js/master/js.eu.png' width='200'/>
 
-=======
-### beer.js
-<img src='https://raw.github.com/voodootikigod/logo.js/master/beerjs/beerjs.png' width='200'/>
->>>>>>> 2109fad7344e02e51510944ef9202be236344dfb
+---
+### Johnny-Five - [https://github.com/rwldrn/johnny-five](https://github.com/rwldrn/johnny-five)
+<img src='https://github.com/rwldrn/johnny-five/raw/master/assets/sgier-johnny-five.png' width='200'/>
 
 ---
-### bogota.js (#199ad5 and #ffffff)
+### bogota.js (#199ad5 and #ffffff) [http://www.bogotajs.com/](http://www.bogotajs.com/)
 <img src='https://raw.github.com/voodootikigod/logo.js/master/bogjs/js.png' width='200'/>
 
 ---
-### beer.js 
-<img src='https://raw.github.com/voodootikigod/logo.js/master/beerjs/beerjs.png' width='200'/>
-
----
-### JSHint (#f3df49 and #2e2e2c)
+### JSHint (#f3df49 and #2e2e2c) [http://www.jshint.com/](http://www.jshint.com/)
 <img src='https://raw.github.com/antonkovalyov/logo.js/master/jshint/jshint.png' width='200'/>
 
 ---
-### Bmore.js 
+### Bmore.js [http://bmorejs.info/](http://bmorejs.info/)
 <img src='https://raw.github.com/VinylFox/bmorejs.info/master/static/images/jslogo.png' width='200'/>
+
+---
+### beer.js [http://beerjs.com/](http://beerjs.com/)
+<img src='https://raw.github.com/voodootikigod/logo.js/master/beerjs/beerjs.png' width='200'/>
