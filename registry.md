@@ -7,10 +7,10 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 
 ---
 ### JS (#f3df49 and #2e2e2c)
-<img src='https://raw.github.com/jsconf/logo.js/master/js.png' width='200'/>
+<img src='https://raw.github.com/voodootikigod/logo.js/master/js.png' width='200'/>
 
 ---
 ### beer.js 
-<img src='https://raw.github.com/jsconf/logo.js/master/beerjs/beerjs.png' width='200'/>
+<img src='https://raw.github.com/voodootikigod/logo.js/master/beerjs/beerjs.png' width='200'/>
 
 ---
