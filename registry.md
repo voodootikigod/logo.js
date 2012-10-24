@@ -30,3 +30,6 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 ---
 ### JSHint (#f3df49 and #2e2e2c)
 <img src='https://raw.github.com/antonkovalyov/logo.js/master/jshint/jshint.png' width='200'/>
+
+### Bmore.js 
+<img src='https://raw.github.com/VinylFox/bmorejs.info/master/static/images/jslogo.png' width='200'/>
