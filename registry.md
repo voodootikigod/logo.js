@@ -21,3 +21,7 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 ---
 ### beer.js 
 <img src='https://raw.github.com/voodootikigod/logo.js/master/beerjs/beerjs.png' width='200'/>
+
+---
+### Bmore.js 
+<img src='https://raw.github.com/VinylFox/bmorejs.info/master/static/images/jslogo.png' width='200'/>
