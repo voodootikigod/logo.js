@@ -10,7 +10,7 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 <img src='https://raw.github.com/voodootikigod/logo.js/master/js.png' width='200'/>
 
 ---
-### beer.js 
+### beer.js
 <img src='https://raw.github.com/voodootikigod/logo.js/master/beerjs/beerjs.png' width='200'/>
 
 ---
@@ -18,3 +18,5 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 <img src='https://raw.github.com/BogotaJS/logo.js/bog-js/js.png' width='200'/>
 
 ---
+### JSHint (#f3df49 and #2e2e2c)
+<img src='https://raw.github.com/antonkovalyov/logo.js/master/jshint/jshint.png' width='200'/>
