@@ -35,8 +35,8 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 
 ---
 ### EmpireJS - [http://empirejs.org](EmpireJS.org)
-<img src='https://raw.github.com/st-luke/logo.js/master/empirejs/empirejs.png' width='200'>
+<img src='https://raw.github.com/voodootikigod/logo.js/master/empirejs/empirejs.png' width='200'>
 
 (rgb(133, 133, 133) and rgb(30, 30, 30))
 
-<img src='https://raw.github.com/st-luke/logo.js/master/empirejs/js_gray.png' width='200'>
+<img src='https://raw.github.com/voodootikigod/logo.js/master/empirejs/js_gray.png' width='200'>
