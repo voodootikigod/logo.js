@@ -10,3 +10,7 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 <img src='https://raw.github.com/jsconf/logo.js/master/js.png' width='200'/>
 
 ---
+### beer.js (#f3df49 and #2e2e2c)
+<img src='https://raw.github.com/jsconf/logo.js/master/js.png' width='200'/>
+
+---
