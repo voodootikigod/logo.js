@@ -10,3 +10,7 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 <img src='https://raw.github.com/jsconf/logo.js/master/js.png' width='200'/>
 
 ---
+### bogota.js (#199ad5 and #ffffff)
+<img src='https://raw.github.com/BogotaJS/logo.js/bog-js/js.png' width='200'/>
+
+---
