@@ -10,9 +10,14 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 <img src='https://raw.github.com/voodootikigod/logo.js/master/js.png' width='200'/>
 
 ---
+<<<<<<< HEAD
 ### JSConf.EU (#E2007A and #FFFFFF)
 <img src='https://raw.github.com/jsconf/logo.js/master/js.eu.png' width='200'/>
 
+=======
+### beer.js
+<img src='https://raw.github.com/voodootikigod/logo.js/master/beerjs/beerjs.png' width='200'/>
+>>>>>>> 2109fad7344e02e51510944ef9202be236344dfb
 
 ---
 ### bogota.js (#199ad5 and #ffffff)
@@ -21,3 +26,7 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 ---
 ### beer.js 
 <img src='https://raw.github.com/voodootikigod/logo.js/master/beerjs/beerjs.png' width='200'/>
+
+---
+### JSHint (#f3df49 and #2e2e2c)
+<img src='https://raw.github.com/antonkovalyov/logo.js/master/jshint/jshint.png' width='200'/>
