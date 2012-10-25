@@ -40,3 +40,7 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 (rgb(133, 133, 133) and rgb(30, 30, 30))
 
 <img src='https://raw.github.com/voodootikigod/logo.js/master/empirejs/js_gray.png' width='200'>
+
+---
+### [Graz.js](https://plus.google.com/u/0/b/116023769200964243200/116023769200964243200/posts) (#008232 and #FFFFFF) 
+<img src='https://raw.github.com/grazjs/logo.js/master/grazjs/grazjs.png' width='200'/>
