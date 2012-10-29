@@ -45,3 +45,6 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 ### JavaScriptMN (#efdc4f and #323230) [http://javascript.mn/](http://javascript.mn/)
 <img src="https://raw.github.com/voodootikigod/logo.js/master/javascriptmn/javascriptmn.png" width="200" />
 
+---
+### PerfShim (#f3df49 and #2e2e2c)
+<img src='https://github.com/SamuelEnglard/perfshim/blob/master/Logo/PerfShim.png?raw=true' width='200'/>
