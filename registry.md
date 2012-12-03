@@ -45,3 +45,6 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 ### JavaScriptMN (#efdc4f and #323230) [http://javascript.mn/](http://javascript.mn/)
 <img src="https://raw.github.com/voodootikigod/logo.js/master/javascriptmn/javascriptmn.png" width="200" />
 
+---
+### IowaJS [http://iowajs.org/](http://iowajs.org/)
+<img src="https://raw.github.com/voodootikigod/logo.js/master/iowajs/iowajs.png" width="200" />
