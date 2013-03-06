@@ -48,3 +48,6 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 ---
 ### IowaJS [http://iowajs.org/](http://iowajs.org/)
 <img src="https://raw.github.com/voodootikigod/logo.js/master/iowajs/iowajs.png" width="200" />
+
+### kanazawa.js [http://kanazawajs.tumblr.com/](http://kanazawajs.tumblr.com/)
+<img src="https://raw.github.com/voodootikigod/logo.js/master/kanazawajs/kanazawajs.png" width="200" />
