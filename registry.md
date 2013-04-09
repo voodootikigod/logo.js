@@ -50,6 +50,11 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 <img src="https://raw.github.com/voodootikigod/logo.js/master/iowajs/iowajs.png" width="200" />
 
 ---
+
 ### NashJS (#f3df49 and #2e2e2c) [http://nashjs.org](http://nashjs.org)
 <img src="https://raw.github.com/voodootikigod/logo.js/master/nashvillejs/nashvillejs.png" width="200" />
 
+---
+
+### kanazawa.js [http://kanazawajs.tumblr.com/](http://kanazawajs.tumblr.com/)
+<img src="https://raw.github.com/voodootikigod/logo.js/master/kanazawajs/kanazawajs.png" width="200" />
