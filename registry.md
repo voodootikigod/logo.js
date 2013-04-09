@@ -70,3 +70,7 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 
 ### PerfShim (#f3df49 and #2e2e2c)
 <img src='https://github.com/SamuelEnglard/perfshim/blob/master/Logo/PerfShim.png?raw=true' width='200'/>
+
+---
+### JavaScript Badge (in the style of HTML5 / CSS3)
+<img src='https://raw.github.com/voodootikigod/logo.js/master/specific-uses/badges_html5_css3_js-strict.png' width='400'/>
