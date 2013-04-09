@@ -73,4 +73,4 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 
 ---
 ### JavaScript Badge (in the style of HTML5 / CSS3)
-<img src='https://raw.github.com/coolaj86/logo.js/master/specific-uses/badges_html5_css3_js-strict.png' width='400'/>
+<img src='https://raw.github.com/voodootikigod/logo.js/master/specific-uses/badges_html5_css3_js-strict.png' width='400'/>
