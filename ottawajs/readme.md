@@ -1,1 +1,0 @@
-Logo for Ottawa.JS
