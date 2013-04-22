@@ -70,3 +70,8 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 
 ### PerfShim (#f3df49 and #2e2e2c)
 <img src='https://github.com/SamuelEnglard/perfshim/blob/master/Logo/PerfShim.png?raw=true' width='200'/>
+
+---
+
+### OttawaJS [http://ottawajs.org](http://ottawajs.org)
+<img src="https://raw.github.com/ottawajs/logo.js/master/ottawajs/OttawaJS.png" width="200" />
