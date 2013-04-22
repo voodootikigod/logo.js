@@ -62,7 +62,7 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 <img src="https://raw.github.com/voodootikigod/logo.js/master/kanazawajs/kanazawajs.png" width="200" />
 
 ---
-### [Graz.js](https://plus.google.com/u/0/b/116023769200964243200/116023769200964243200/posts) (#008232 and #FFFFFF) 
+### [Graz.js](https://plus.google.com/u/0/b/116023769200964243200/116023769200964243200/posts) (#008232 and #FFFFFF)
 <img src='https://raw.github.com/grazjs/logo.js/master/grazjs/grazjs.png' width='200'/>
 
 ---
@@ -73,3 +73,8 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 
 ### OttawaJS [http://ottawajs.org](http://ottawajs.org)
 <img src="https://raw.github.com/ottawajs/logo.js/master/ottawajs/OttawaJS.png" width="200" />
+
+---
+
+### JavaScript (Strict) Web Badge
+<img src='https://raw.github.com/voodootikigod/logo.js/master/specific-uses/badge_js-strict.png' width='200'/>
