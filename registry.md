@@ -42,32 +42,30 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 <img src='https://raw.github.com/voodootikigod/logo.js/master/empirejs/js_gray.png' width='200'>
 
 ---
-
 ### JavaScriptMN (#efdc4f and #323230) [http://javascript.mn/](http://javascript.mn/)
 <img src="https://raw.github.com/voodootikigod/logo.js/master/javascriptmn/javascriptmn.png" width="200" />
 
 ---
-
 ### IowaJS [http://iowajs.org/](http://iowajs.org/)
 <img src="https://raw.github.com/voodootikigod/logo.js/master/iowajs/iowajs.png" width="200" />
 
 ---
+### UtahJS [http://utahjs.com/](http://utahjs.com/)
+<img src="https://raw.github.com/voodootikigod/logo.js/master/utahjs/utahjs.png" width="200" />
 
+---
 ### NashJS (#f3df49 and #2e2e2c) [http://nashjs.org](http://nashjs.org)
 <img src="https://raw.github.com/voodootikigod/logo.js/master/nashvillejs/nashvillejs.png" width="200" />
 
 ---
-
 ### kanazawa.js [http://kanazawajs.tumblr.com/](http://kanazawajs.tumblr.com/)
 <img src="https://raw.github.com/voodootikigod/logo.js/master/kanazawajs/kanazawajs.png" width="200" />
 
 ---
-
 ### [Graz.js](https://plus.google.com/u/0/b/116023769200964243200/116023769200964243200/posts) (#008232 and #FFFFFF) 
 <img src='https://raw.github.com/grazjs/logo.js/master/grazjs/grazjs.png' width='200'/>
 
 ---
-
 ### PerfShim (#f3df49 and #2e2e2c)
 <img src='https://github.com/SamuelEnglard/perfshim/blob/master/Logo/PerfShim.png?raw=true' width='200'/>
 
