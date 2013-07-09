@@ -5,8 +5,6 @@
 
 ![](nebraskajs.png)
 
-## SVG
-![](nebraskajs.svg)
+## [SVG](nebraskajs.svg)
 
-## SVG (Optimized using SVGO)
-![](nebraskajs.min.svg)
+## [SVG (Optimized using SVGO)](nebraskajs.min.svg)
