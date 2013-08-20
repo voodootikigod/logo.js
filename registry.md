@@ -78,3 +78,8 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 
 ### JavaScript (Strict) Web Badge
 <img src='https://raw.github.com/voodootikigod/logo.js/master/specific-uses/badge_js-strict.png' width='200'/>
+
+---
+
+### VanJS – [vanjs.com](http://vanjs.com)
+<img src='https://raw.github.com/voodootikigod/logo.js/master/vanjs/VanJS.png' width='200'/>
