@@ -1,5 +1,5 @@
 # PanamaJS
-[http://costaricajs.org](http://costaricajs.org)
+[http://meetup.com/panamajs](http://meetup.com/panamajs
 
 ## PNG
 
