@@ -1,4 +1,4 @@
-# NebraskaJS
+# CostaRicaJS
 [http://costaricajs.org](http://costaricajs.org)
 
 ## PNG
