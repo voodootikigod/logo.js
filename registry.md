@@ -76,5 +76,11 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 
 ---
 
+
+### TucJS [http://www.tucjs.com](http://www.tucjs.com)
+<img src="https://raw.github.com/tucjs/logo.js/master/tucjs/tucjs.jpg" width="200" />
+
+---
+
 ### JavaScript (Strict) Web Badge
 <img src='https://raw.github.com/voodootikigod/logo.js/master/specific-uses/badge_js-strict.png' width='200'/>
