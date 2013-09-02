@@ -78,5 +78,5 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 <img src='https://raw.github.com/voodootikigod/logo.js/master/specific-uses/badge_js-strict.png' width='200'/>
 
 ---
-### [Hill Country JS](http://twitter.com/HillCountryJS)
+### [Hill Country JS](http://twitter.com/HillCountryJS) (#6bb856 and #2c2e2c)
 <img src="https://raw.github.com/voodootikigod/logo.js/master/HillCountryJS/hcjs.png" width="200" />
