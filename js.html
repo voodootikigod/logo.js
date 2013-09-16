@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="description" content="CSS simulacrum of the JS logo" />
+<meta charset="utf-8" />
+<title>logo.js</title>
+<style>
+/* A CSS simulacrum of the JS logo. 
+ * See: @voodtikigod's https://github.com/voodootikigod/logo.js
+ * by @olizilla
+ */
+.js{
+  width:200px;
+  height:200px;
+  font-size: 116px; 
+  /* font-size: calc( attr(width) * 0.58 )... If only one could. */
+
+  /* oh god no... can someone please get http://www.houseind.com/fonts/neutraface2 into the public domain. */
+  font-family: Futura, "Trebuchet MS", Arial, sans-serif; 
+  letter-spacing: -1px;
+  line-height: 1.1em;
+  font-weight: 700;
+  
+  background-color: #f3df49;  
+  color: #2e2e2c;
+  /* Increase the font weight with a faux-outline...*/
+  text-shadow:1px 1px 0px #2e2e2c;
+  /* ...but too much and you trade-off the sharpness of the font. */
+  /*text-shadow:-1px 0 #2e2e2c, 0 1px #2e2e2c, 1px 0 #2e2e2c, 0 -1px #2e2e2c;*/
+
+  display: inline-block;
+  position: relative;
+}
+.js div {
+  position: absolute;
+  bottom:0;
+  right:0;
+  padding:0 5% 0 0;
+}
+</style>
+</head>
+<body>
+  <div class="js">
+    <div>JS</div>
+  </div>
+</body>
+</html>
