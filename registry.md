@@ -63,6 +63,10 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 <img src="https://raw.github.com/voodootikigod/logo.js/master/nashvillejs/nashvillejs.png" width="200" />
 
 ---
+### noogaJS [http://noogajs.org](http://noogajs.org)
+<img src="https://raw.github.com/voodootikigod/logo.js/master/noogajs/noogajs.png" width="200" />
+
+---
 ### kanazawa.js [http://kanazawajs.tumblr.com/](http://kanazawajs.tumblr.com/)
 <img src="https://raw.github.com/voodootikigod/logo.js/master/kanazawajs/kanazawajs.png" width="200" />
 
