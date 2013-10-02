@@ -74,12 +74,10 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 <img src='https://github.com/SamuelEnglard/perfshim/blob/master/Logo/PerfShim.png?raw=true' width='200'/>
 
 ---
-
 ### OttawaJS [http://ottawajs.org](http://ottawajs.org)
 <img src="https://raw.github.com/ottawajs/logo.js/master/ottawajs/OttawaJS.png" width="200" />
 
 ---
-
 
 ### TucJS [http://www.tucjs.com](http://www.tucjs.com)
 <img src="https://raw.github.com/tucjs/logo.js/master/tucjs/tucjs.jpg" width="200" />
@@ -88,3 +86,8 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 
 ### JavaScript (Strict) Web Badge
 <img src='https://raw.github.com/voodootikigod/logo.js/master/specific-uses/badge_js-strict.png' width='200'/>
+
+---
+
+### [Hill Country JS](http://twitter.com/HillCountryJS) (#6bb856 and #2c2e2c)
+<img src="https://raw.github.com/voodootikigod/logo.js/master/HillCountryJS/hcjs.png" width="200" />
