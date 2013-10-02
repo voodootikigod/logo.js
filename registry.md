@@ -107,3 +107,7 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 ### JS Unconf (#92137F and #FFFFFF) [http://jsunconf.eu/](http://jsunconf.eu/)
 <img src="https://raw.github.com/voodootikigod/logo.js/master/jsunconf/jsunconf.png" width="200" />
 
+---
+
+### Promises/A+ (#FBDE34 and #524739) [promisesaplus.com](http://promisesaplus.com/)
+<img src="https://rawgithub.com/promises-aplus/promises-spec/master/logo.svg" width="200" />
