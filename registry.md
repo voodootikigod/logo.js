@@ -91,3 +91,8 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 
 ### [Hill Country JS](http://twitter.com/HillCountryJS) (#6bb856 and #2c2e2c)
 <img src="https://raw.github.com/voodootikigod/logo.js/master/HillCountryJS/hcjs.png" width="200" />
+
+---
+
+### VanJS – [vanjs.com](http://vanjs.com)
+<img src='https://raw.github.com/voodootikigod/logo.js/master/vanjs/VanJS.png' width='200'/>
