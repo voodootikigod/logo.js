@@ -107,3 +107,8 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 ### JS Unconf (#92137F and #FFFFFF) [http://jsunconf.eu/](http://jsunconf.eu/)
 <img src="https://raw.github.com/voodootikigod/logo.js/master/jsunconf/jsunconf.png" width="200" />
 
+---
+
+### JSConf BR (#008000, #FFCC00 and #323330) [http://jsconfbr.org/](http://jsconfbr.org/)
+<img src="https://raw.github.com/voodootikigod/logo.js/master/jsconfbr/jsconfbr.png" width="200" />
+
