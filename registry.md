@@ -107,3 +107,8 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 ### JS Unconf (#92137F and #FFFFFF) [http://jsunconf.eu/](http://jsunconf.eu/)
 <img src="https://raw.github.com/voodootikigod/logo.js/master/jsunconf/jsunconf.png" width="200" />
 
+---
+
+### Norfolk.js [http://www.norfolkjs.org](http://www.norfolkjs.org)
+<img src="https://raw.github.com/voodootikigod/logo.js/master/norfolkjs/ninjacat_150.png" width="150" />
+
