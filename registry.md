@@ -121,3 +121,8 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 ### Norfolk.js [http://www.norfolkjs.org](http://www.norfolkjs.org)
 <img src="https://raw.github.com/voodootikigod/logo.js/master/norfolkjs/ninjacat_150.png" width="150" />
 
+---
+
+### SEM.js
+<img src="https://raw.github.com/voodootikigod/logo.js/master/semjs/semjs.png" width="200" />
+
