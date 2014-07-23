@@ -87,6 +87,10 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 <img src='https://github.com/SamuelEnglard/perfshim/blob/master/Logo/PerfShim.png?raw=true' width='200'/>
 
 ---
+### PragueJS [http://www.praguejs.cz](htttp://www.praguejs.cz)
+<img src="https://raw.github.com/voodootikigod/logo.js/master/praguejs/js-logo@2x.png" width="200" />
+
+---
 ### OttawaJS [http://ottawajs.org](http://ottawajs.org)
 <img src="https://raw.github.com/ottawajs/logo.js/master/ottawajs/OttawaJS.png" width="200" />
 
