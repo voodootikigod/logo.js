@@ -112,3 +112,8 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 ### JSConf BR (#008000, #FFCC00 and #323330) [http://jsconfbr.org/](http://jsconfbr.org/)
 <img src="https://raw.github.com/voodootikigod/logo.js/master/jsconfbr/jsconfbr.png" width="200" />
 
+---
+
+### Norfolk.js [http://www.norfolkjs.org](http://www.norfolkjs.org)
+<img src="https://raw.github.com/voodootikigod/logo.js/master/norfolkjs/ninjacat_150.png" width="150" />
+
