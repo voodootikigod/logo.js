@@ -134,3 +134,7 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 ### SEM.js
 <img src="https://raw.github.com/voodootikigod/logo.js/master/semjs/semjs.png" width="200" />
 
+---
+
+### [GrunnJS](http://www.meetup.com/GrunnJS/)
+<img src="https://raw.githubusercontent.com/grunnjs/logo/master/logo.png" width="200" />
