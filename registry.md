@@ -134,3 +134,9 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 ### SEM.js
 <img src="https://raw.github.com/voodootikigod/logo.js/master/semjs/semjs.png" width="200" />
 
+---
+
+### Space Coast JS [http://spacecoastjs.org](http://spacecoastjs.org)
+<img src="https://raw.github.com/voodootikigod/logo.js/master/spacecoastjs/spacecoastjs.png" width="200" />
+
+
