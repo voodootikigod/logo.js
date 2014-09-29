@@ -14,6 +14,10 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 <img src='https://raw.github.com/jsconf/logo.js/master/js.eu.png' width='200'/>
 
 ---
+### JSConf.Asia (#021C7F, #256BC4, #56AAEB, #9AE0FF, #FFED2A and (of course) #FFFFFF) - [http://jsconf.asia](http://jsconf.asia)
+<img src='https://raw.github.com/jsconf/logo.js/master/js.asia.png' width='200'/>
+
+---
 
 ### Nodebots - [http://nodebots.io](http://nodebots.io)
 <img src='https://raw.github.com/voodootikigod/logo.js/master/nodebots/nodebots.png' width='200'/>
