@@ -1,0 +1,153 @@
+.logo_box_animation {
+  -webkit-animation: jsconfasia
+    45s infinite linear;
+  -moz-animation: jsconfasia
+    45s infinite linear;
+  animation: jsconfasia
+    45s infinite linear;
+  background-color: #256BC4;
+  background-image:
+    -webkit-linear-gradient(left,
+      transparent 0%,
+      #56AAEB 0%,
+      #56AAEB 12%,
+      transparent 12%),
+    -webkit-linear-gradient(left,
+      transparent 0%,
+      transparent 33%,
+      #9AE0FF 20%,
+      #9AE0FF 37%,
+      transparent 37%),
+    -webkit-linear-gradient(left,
+      transparent 0%,
+      transparent 37%,
+      #021C7F 37%,
+      #021C7F 67%,
+      transparent 67%),
+    -webkit-linear-gradient(left,
+      transparent 0%,
+      transparent 79%,
+      #FFED2A 79%,
+      #FFED2A 100%,
+      transparent 100%);
+  background-image:
+    -moz-linear-gradient(to right,
+      transparent 0%,
+      #56AAEB 0%,
+      #56AAEB 12%,
+      transparent 12%),
+    -moz-linear-gradient(to right,
+      transparent 0%,
+      transparent 33%,
+      #9AE0FF 20%,
+      #9AE0FF 37%,
+      transparent 37%),
+    -moz-linear-gradient(to right,
+      transparent 0%,
+      transparent 37%,
+      #021C7F 37%,
+      #021C7F 67%,
+      transparent 67%),
+    -moz-linear-gradient(to right,
+      transparent 0%,
+      transparent 79%,
+      #FFED2A 79%,
+      #FFED2A 100%,
+      transparent 100%);
+  background-image:
+    linear-gradient(to right,
+      transparent 0%,
+      #56AAEB 0%,
+      #56AAEB 12%,
+      transparent 12%),
+    linear-gradient(to right,
+      transparent 0%,
+      transparent 33%,
+      #9AE0FF 20%,
+      #9AE0FF 37%,
+      transparent 37%),
+    linear-gradient(to right,
+      transparent 0%,
+      transparent 37%,
+      #021C7F 37%,
+      #021C7F 67%,
+      transparent 67%),
+    linear-gradient(to right,
+      transparent 0%,
+      transparent 79%,
+      #FFED2A 79%,
+      #FFED2A 100%,
+      transparent 100%);
+background-image:
+    -webkit-linear-gradient(left,
+      transparent 0%,
+      #56AAEB 0%,
+      #56AAEB 12%,
+      transparent 12%),
+    -webkit-linear-gradient(left,
+      transparent 0%,
+      transparent 33%,
+      #9AE0FF 20%,
+      #9AE0FF 37%,
+      transparent 37%),
+    -webkit-linear-gradient(left,
+      transparent 0%,
+      transparent 37%,
+      #021C7F 37%,
+      #021C7F 67%,
+      transparent 67%),
+    -webkit-linear-gradient(left,
+      transparent 0%,
+      transparent 79%,
+      #FFED2A 79%,
+      #FFED2A 100%,
+      transparent 100%);
+}
+@-webkit-keyframes jsconfasia {
+  50% {
+    background-position:
+      100vw 0,
+      -5vw 0,
+      100vw 0,
+      10vw 0;
+  }
+  0%, 100% {
+    background-position:
+      0% 0,
+      100vw 0,
+      50vw 0,
+      25vw 0;
+  }
+}
+@-moz-keyframes jsconfasia {
+  50% {
+    background-position:
+      100vw 0,
+      -5vw 0,
+      100vw 0,
+      10vw 0;
+  }
+  0%, 100% {
+    background-position:
+      0% 0,
+      100vw 0,
+      50vw 0,
+      25vw 0;
+  }
+}
+@keyframes jsconfasia {
+  50% {
+    background-position:
+      100vw 0,
+      -5vw 0,
+      100vw 0,
+      10vw 0;
+  }
+  0%, 100% {
+    background-position:
+      0% 0,
+      100vw 0,
+      50vw 0,
+      25vw 0;
+  }
+}
