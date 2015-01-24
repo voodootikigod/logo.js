@@ -147,3 +147,8 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 
 ### WebAudio
 <img src="https://raw.githubusercontent.com/woodworker/logo.js/master/webaudio/webaudio-js.png" width="200" />
+
+---
+
+### JavaScript Iceland
+<img src="https://raw.githubusercontent.com/woodworker/logo.js/master/jsiceland/jsis.png" width="200" />
