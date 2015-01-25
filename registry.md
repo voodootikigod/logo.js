@@ -147,3 +147,8 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 
 ### WebAudio
 <img src="https://raw.githubusercontent.com/woodworker/logo.js/master/webaudio/webaudio-js.png" width="200" />
+
+---
+
+### [JavaScript Iceland](https://www.facebook.com/groups/nodejsis/) (#f3df49 and #2e2e2c)
+<img src="https://raw.githubusercontent.com/MiniGod/logo.js/master/jsiceland/jsiceland.png" width="200" />
