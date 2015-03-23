@@ -147,3 +147,8 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 
 ### WebAudio
 <img src="https://raw.githubusercontent.com/woodworker/logo.js/master/webaudio/webaudio-js.png" width="200" />
+
+---
+
+### CostaRicaJs(#000000 and #F7DF1E) [http://www.meetup.com/costaricajs](http://www.meetup.com/costaricajs)
+<img src='https://raw.github.com/voodootikigod/logo.js/master/costaricajs/CostaRicaJS.png' width='200'/>
