@@ -105,6 +105,11 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 
 ---
 
+### TucsonJS [http://www.tucsonjs.org](http://www.tucsonjs.org)
+<img src="https://raw.github.com/tucsonjs/logo.js/master/tucsonjs/TucsonJS.png" width="200" />
+
+---
+
 ### JavaScript (Strict) Web Badge
 <img src='https://raw.github.com/voodootikigod/logo.js/master/specific-uses/badge_js-strict.png' width='200'/>
 
