@@ -15,7 +15,7 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 
 ---
 ### JSConf.Asia (#021C7F, #256BC4, #56AAEB, #9AE0FF, #FFED2A and (of course) #FFFFFF) - [http://jsconf.asia](http://jsconf.asia)
-<img src='https://raw.github.com/jsconf/logo.js/master/js.asia.png' width='200'/>
+<img src='https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.asia.png' width='200'/>
 
 ---
 
