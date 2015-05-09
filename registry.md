@@ -145,6 +145,7 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 
 ---
 
+<<<<<<< HEAD
 ### LimaJS (#FADF1C, #383632 and #69645C) [http://limajs.org/](http://limajs.org/)
 <img src="https://raw.githubusercontent.com/wixo/LimaJS-logo/master/LimaJS-500x500.jpg" width="200" />
 
@@ -167,3 +168,8 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 
 ### [JavaScript Iceland](https://www.facebook.com/groups/nodejsis/) (#f3df49 and #2e2e2c)
 <img src="https://raw.githubusercontent.com/MiniGod/logo.js/master/jsiceland/jsiceland.png" width="200" />
+
+---
+
+### [GrunnJS](http://www.meetup.com/GrunnJS/)
+<img src="https://raw.githubusercontent.com/grunnjs/logo/master/logo.png" width="200" />
