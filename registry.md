@@ -145,8 +145,6 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 
 ---
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 ### LimaJS (#FADF1C, #383632 and #69645C) [http://limajs.org/](http://limajs.org/)
 <img src="https://raw.githubusercontent.com/wixo/LimaJS-logo/master/LimaJS-500x500.jpg" width="200" />
 
