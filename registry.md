@@ -147,3 +147,8 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 
 ### WebAudio
 <img src="https://raw.githubusercontent.com/woodworker/logo.js/master/webaudio/webaudio-js.png" width="200" />
+
+---
+
+### Tokyo JS [http://github.com/tokyojs](http://github.com/tokyojs)
+<img src='https://raw.github.com/voodootikigod/logo.js/master/tokyojs/TokyoJS-Logo.png' width='200'/>
