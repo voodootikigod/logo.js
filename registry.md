@@ -146,6 +146,7 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 ---
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### LimaJS (#FADF1C, #383632 and #69645C) [http://limajs.org/](http://limajs.org/)
 <img src="https://raw.githubusercontent.com/wixo/LimaJS-logo/master/LimaJS-500x500.jpg" width="200" />
 
@@ -173,3 +174,10 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 
 ### [GrunnJS](http://www.meetup.com/GrunnJS/)
 <img src="https://raw.githubusercontent.com/grunnjs/logo/master/logo.png" width="200" />
+
+---
+
+### Space Coast JS [http://spacecoastjs.org](http://spacecoastjs.org)
+<img src="https://raw.github.com/voodootikigod/logo.js/master/spacecoastjs/spacecoastjs.png" width="200" />
+
+
