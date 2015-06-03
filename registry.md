@@ -178,4 +178,8 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 ### Space Coast JS [http://spacecoastjs.org](http://spacecoastjs.org)
 <img src="https://raw.github.com/voodootikigod/logo.js/master/spacecoastjs/spacecoastjs.png" width="200" />
 
+---
+
+### [SingaporeJS](http://www.meetup.com/Singapore-JS/) (#F0DB4F, #F42A41, #323330)
+<img src="https://raw.github.com/SingaporeJS/logo/master/singaporejs-logo.png" width="200" />
 
