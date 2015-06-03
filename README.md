@@ -5,8 +5,8 @@ Officially announced at JSConf EU 2011, but used for almost a year and half prio
 
 This is a gift from JSConf to you, with love!
 
-Also be sure to check the [registry](https://github.com/voodootikigod/logo.js/blob/master/registry.md) for awesome use cases of the logo and what they mean!
+Also be sure to check the [registry](registry.md) for awesome use cases of the logo and what they mean!
 
 Enjoy.
 
-![JS Logo (PNG)](https://github.com/voodootikigod/logo.js/raw/master/js.png)
+![JS Logo (PNG)](js.png)
