@@ -1,5 +1,7 @@
 # CostaRicaJS
-[http://costaricajs.org](http://costaricajs.org)
+[costaricajs.github.io](http://costaricajs.github.io)
+
+[meetup.com/costaricajs](http://meetup.com/costaricajs)
 
 ## PNG
 
