@@ -187,3 +187,10 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 
 ### Oklahoma City JS [http://okcjs.com/](http://okcjs.com/)
 <img src="https://raw.github.com/voodootikigod/logo.js/master/okcjs/okcjs_logo.png" width="200" />
+
+---
+
+### Universal JS
+<img src="https://raw.github.com/voodootikigod/logo.js/master/universaljs/UniversalJS.png" width="200"/>
+
+---
