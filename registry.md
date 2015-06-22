@@ -183,3 +183,7 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 ### [SingaporeJS](http://www.meetup.com/Singapore-JS/) (#F0DB4F, #F42A41, #323330)
 <img src="https://raw.github.com/SingaporeJS/logo/master/singaporejs-logo.png" width="200" />
 
+---
+
+### Oklahoma City JS [http://okcjs.com/](http://okcjs.com/)
+<img src="https://raw.github.com/voodootikigod/logo.js/master/okcjs/okcjs_logo.png" width="200" />
