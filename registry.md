@@ -199,3 +199,6 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 <img src="https://raw.github.com/andymantell/logo.js/master/plymouthjs/PlymouthJS.png" width="200"/>
 
 ---
+
+### Pride JS (#ef4b4d, #f89b47, #f0db4f, #7dc242, #5d94ce, #855ca7)
+<img src="https://raw.github.com/voodootikigod/logo.js/master/pridejs/PrideJS.png" width="200"/>
