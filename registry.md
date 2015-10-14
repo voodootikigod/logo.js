@@ -199,3 +199,8 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 <img src="https://raw.github.com/andymantell/logo.js/master/plymouthjs/PlymouthJS.png" width="200"/>
 
 ---
+
+### [WarsawjsJS](http://www.meetup.com/WarsawJS/) (#f0db4f, #f7302f)
+<img src="https://raw.github.com/warsawjs/logo.js/master/warsawjs/WarsawJS.png" width="200"/>
+
+---
