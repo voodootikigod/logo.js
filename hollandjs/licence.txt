@@ -1,0 +1,2 @@
+Author : JP Wesselink - https://github.com/jpwesselink
+Licence : WTFPL
