@@ -199,3 +199,8 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 <img src="https://raw.github.com/andymantell/logo.js/master/plymouthjs/PlymouthJS.png" width="200"/>
 
 ---
+
+### [Holland JS](http://www.hollandjs.nl) (#E47D24)
+<img src="https://rawgit.com/jpwesselink/logo.js/master/hollandjs/hollandjs.png" width="200"/>
+
+---
