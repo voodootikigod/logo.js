@@ -199,3 +199,8 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 <img src="https://raw.github.com/andymantell/logo.js/master/plymouthjs/PlymouthJS.png" width="200"/>
 
 ---
+
+### TypeScript TS [https://github.com/remojansen/logo.ts/](https://github.com/remojansen/logo.ts/)
+<img src="https://raw.githubusercontent.com/remojansen/logo.ts/master/ts.png" width="200" />
+
+---
