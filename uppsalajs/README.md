@@ -1,4 +1,4 @@
-# NebraskaJS
+# Uppsala.js
 [http://www.meetup.com/Uppsalajs](http://www.meetup.com/Uppsalajs)
 
 ## PNG
