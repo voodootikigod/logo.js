@@ -47,6 +47,10 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 <img src='https://raw.github.com/jed/brooklynjs/gh-pages/logo/logo.png' width='200'/>
 
 ---
+### BuzzJS [http://BuzzJS.com](http://buzzjs.com)
+<img src='https://raw.github.com/voodootikigod/logo.js/master/buzzjs/buzzjs.png' width='200'/>
+
+---
 ### EmpireJS - [http://empirejs.org](EmpireJS.org)
 <img src='https://raw.github.com/voodootikigod/logo.js/master/empirejs/empirejs.png' width='200'>
 
