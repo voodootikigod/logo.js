@@ -199,3 +199,9 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 <img src="https://raw.github.com/andymantell/logo.js/master/plymouthjs/PlymouthJS.png" width="200"/>
 
 ---
+
+### Functional JS
+<img src="https://raw.github.com/voodootikigod/logo.js/master/functionaljs/functionaljs.png" width="200"/>
+
+---
+
