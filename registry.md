@@ -10,6 +10,10 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 <img src='https://raw.github.com/voodootikigod/logo.js/master/js.png' width='200'/>
 
 ---
+### JS.ORG (#1594cc,#7f8081,#f2f2f2) - [http://js.org](http://js.org)
+<img src='https://raw.github.com/jsconf/logo.js/master/JS.ORG/jsorg_200.png' width='200'/>
+
+---
 ### JSConf.EU (#E2007A and #FFFFFF) - [http://jsconf.eu](http://jsconf.eu)
 <img src='https://raw.github.com/jsconf/logo.js/master/js.eu.png' width='200'/>
 
