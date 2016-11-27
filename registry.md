@@ -198,4 +198,6 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 ### Plymouth JS
 <img src="https://raw.github.com/andymantell/logo.js/master/plymouthjs/PlymouthJS.png" width="200"/>
 
+### bogota.js (#199ad5 and #ffffff)
+<img src='https://raw.github.com/BogotaJS/logo.js/master/bogjs/js.png' width='200'/>
 ---
