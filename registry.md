@@ -199,3 +199,8 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 <img src="https://raw.github.com/andymantell/logo.js/master/plymouthjs/PlymouthJS.png" width="200"/>
 
 ---
+
+### brain.js
+<img src="https://raw.github.com/harthur-org/brain.js/master/logo.png" width="200"/>
+
+---
