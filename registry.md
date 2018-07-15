@@ -199,3 +199,8 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 <img src="https://raw.github.com/andymantell/logo.js/master/plymouthjs/PlymouthJS.png" width="200"/>
 
 ---
+
+### Chicago JS
+<img src="https://github.com/ChicagoJS/logo.js/blob/e6b62a469795184c2e947089436eba8ab0ea8d7a/chicagojs/logo.png" width="200"/>
+
+---
