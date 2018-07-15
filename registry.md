@@ -201,6 +201,6 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 ---
 
 ### Chicago JS
-<img src="https://raw.github.com/andymantell/logo.js/master/chicagojs/logo.png" width="200"/>
+<img src="https://raw.github.com/chicagojs/logo.js/master/chicagojs/logo.png" width="200"/>
 
 ---
