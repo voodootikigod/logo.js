@@ -199,3 +199,8 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 <img src="https://raw.github.com/andymantell/logo.js/master/plymouthjs/PlymouthJS.png" width="200"/>
 
 ---
+
+### [Oregon JS](https://github.com/safwyls/logos/blob/master/oregon_js.svg)
+<img src="https://raw.githubusercontent.com/safwyls/logos/master/oregon_js.png" width="200" />
+
+---
