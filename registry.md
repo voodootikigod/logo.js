@@ -23,6 +23,10 @@ An awesome new trend has taken root in the JS community. After announcing a "com
 <img src='https://raw.github.com/voodootikigod/logo.js/master/nodebots/nodebots.png' width='200'/>
 
 ---
+### Execute JS - [x.js.org](https://x.js.org)
+<img src='x.js/logo.png' width='200'/>
+
+---
 ### Johnny-Five - [https://github.com/rwldrn/johnny-five](https://github.com/rwldrn/johnny-five)
 <img src='https://github.com/rwldrn/johnny-five/raw/master/assets/sgier-johnny-five.png' width='200'/>
 
